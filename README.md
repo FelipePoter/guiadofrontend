@@ -441,6 +441,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Icons8 Line Awesome](https://icons8.com/line-awesome/)
 - [Icons8](https://icons8.com.br/)
 - [Shape](https://shape.so/)
+- [Simple Icons](https://simpleicons.org/)
 - [Flaticon](https://www.flaticon.com/br/)
 - [Bootstrap icons](https://icons.getbootstrap.com/)
 - [devicon](https://devicon.dev/)
